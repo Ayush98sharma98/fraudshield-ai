@@ -210,6 +210,26 @@ With imbalanced data, accuracy is misleading. ROC AUC measures the model's abili
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ayush98sharma98-black?style=flat&logo=github)](https://github.com/Ayush98sharma98)
 
+## 🚀 Live Demo
+👉 https://fraudshield-ai-severus.streamlit.app
+```
+
+### 3. Post on LinkedIn 🎯
+```
+🚀 Excited to share my latest project!
+
+💳 FraudShield AI — Credit Card Fraud Detection System
+
+✅ 99.5% Accuracy | 0.98 ROC AUC
+✅ Real-time fraud detection
+✅ Batch scanning for multiple transactions
+✅ 6 UI themes
+
+🔗 Live Demo: https://fraudshield-ai-severus.streamlit.app
+🔗 GitHub: https://github.com/Ayush98sharma98/fraudshield-ai
+
+#MachineLearning #DataScience #Python #MLEngineer
+
 ---
 
 <div align="center">
