@@ -1,4 +1,3 @@
-# fraudshield-ai
 # 🛡️ FraudShield AI — Credit Card Fraud Detection System
 
 <div align="center">
