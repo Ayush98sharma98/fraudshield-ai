@@ -226,6 +226,7 @@ With imbalanced data, accuracy is misleading. ROC AUC measures the model's abili
 
 🔗 Live Demo: https://fraudshield-ai-severus.streamlit.app
 🔗 GitHub: https://github.com/Ayush98sharma98/fraudshield-ai
+🔗 linkdin: https://www.linkedin.com/feed/update/urn:li:activity:7441820691168989184/
 
 #MachineLearning #DataScience #Python #MLEngineer
 
